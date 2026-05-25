@@ -145,7 +145,7 @@ The trend view adds a further layer by showing how child poverty rates changed b
 
 Taken together, the dashboard functions as an evidence tool rather than just a visual output. It brings together city-wide indicators, regional comparison, and neighborhood-level analysis in a way that is accessible and practical. More importantly, it supports one of the central points of our project: child poverty should not be understood as a single number in isolation, but as a place-based and multi-dimensional issue shaped by deprivation, family circumstances, housing pressures, health, and access to support.
 
-![ArcGIS dashboard screenshot showing child poverty indicators for Dundee](Dashboard_upd.png)
+![ArcGIS dashboard screenshot showing child poverty indicators for Dundee](images/Dashboard_upd.png)
 
 *Figure 1. ArcGIS dashboard presenting child poverty indicators for Dundee and the wider Tay Cities area.*
 
