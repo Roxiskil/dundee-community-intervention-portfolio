@@ -1,6 +1,9 @@
 # dundee-community-intervention-portfolio
 Portfolio case study: GIS, dashboards and data storytelling project on deprivation and community intervention in Dundee.
-# Draft Report
+# Full Project Report
+
+[Download the full PDF report](report/Investigating-Deprivation-and-Community-Intervention-in-Dundee.pdf)
+
 # Working Title
 
 ### Table of Contents
