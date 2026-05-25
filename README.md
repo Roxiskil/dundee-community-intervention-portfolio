@@ -1,10 +1,23 @@
-# dundee-community-intervention-portfolio
-Portfolio case study: GIS, dashboards and data storytelling project on deprivation and community intervention in Dundee.
-# Full Project Report
+# Investigating Deprivation and Community Intervention in Dundee
+
+Portfolio case study from a group data science project using GIS, dashboards and data storytelling to explore deprivation, child poverty, mental health pressures, substance-related harm and community intervention in Dundee.
+
+## Full Project Report
 
 [Download the full PDF report](report/Investigating-Deprivation-and-Community-Intervention-in-Dundee.pdf)
 
-# Working Title
+## My Contribution
+
+My role was GIS Lead. I contributed to GIS mapping, dashboard presentation, StoryMap/persona visualisation, public-facing design, and communication of the project findings using ArcGIS Online and Canva.
+
+## Project Outputs
+
+- Full project report
+- Child poverty ArcGIS dashboard
+- StoryMap/persona screenshots
+- Community support services dashboard
+- Dundee Recovery Map prototype screenshots
+- Project poster
 
 ### Table of Contents
 
