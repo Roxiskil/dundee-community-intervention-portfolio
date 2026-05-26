@@ -4,7 +4,7 @@ Portfolio case study from a group data science project using GIS, dashboards and
 
 ## Full Project Report
 
-[Download the full PDF report](report/Investigating-Deprivation-and-Community-Intervention-in-Dundee.pdf)
+[Download the full PDF report](report/Investigating_Deprivation_and_Community_Intervention_in_Dundee.pdf)
 
 ## My Contribution
 
